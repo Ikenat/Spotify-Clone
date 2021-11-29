@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Guns for Hire (From the series Arcane League of Legends",
+        "img" : "seraphine",
+        "author": ["Woodkid"],
+        "srcName": "guns-for-hire",
+        "filetype": "mp3"
+      },
+      {
+        "name":"This Is STUDIO GHIBLI -スタジオジブリ-",
+        "img": "ghibli",
+        "desc": "スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's 'Studio Ghibli' films, right here.",
+        "author": ["Spotify"],
+        "srcName": "ghibli",
+        "filetype": "mp3"
+      },
+      {
+        "name": "Megalobox2Original Soundtrack",
+        "img": "Nomad",
+        "author": ["mabanua"],
+        "srcName": "el-canto-del-colobri",
+        "filetype": "mp3"
+      },
+      {
+        "name": "This is League of Legends",
+        "img": "League",
+        "desc": "This Is League of Legends. Les titres incontournables, réunis dans une seule et même playlist.",
+        "author": ["Spotify"],
+        "srcName": "ennemy",
+        "filetype": "mp3"
+      },
+      {
+        "name": "Time Time",
+        "img": "Time_Time",
+        "author": ["Trei Degete", "Squeezie", "Myd", "Kronomuzik"],
+        "srcName": "time-time",
+        "filetype": "mp3"
+      },
+      {
+        "name": "This is Yasuharu",
+        "img": "yasuharu",
+        "author": ["Spotify"],
+        "srcName": "fairy-tail-theme",
+        "filetype": "mp3"
+      },
+      {
+        "name": "Your Lie in April OST",
+        "img": "Your_Lie_in_April",
+        "desc": "'You know, I'm not always going to be around to help you, Charlie Brown' - Kaori Miyazono. Shigatsu wa Kimi no Uso",
+        "author": ["Eric Sunderland"],
+        "srcName": "friends-a",
+        "filetype": "mp3"
+      },
+      {
+        "name": "Casseurs Flowters Infinity",
+        "img": "civilisation",
+        "author": ["orelsan"],
+        "srcName": "casseurs-flowters-infinity",
+        "filetype": "mp3"
+      }
+]
